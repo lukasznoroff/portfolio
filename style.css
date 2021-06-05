@@ -386,6 +386,10 @@
       width: 300px;
     }
   
+    .display-links {
+        transform: translateY(45px);
+    }
+
     .main-text-mobile {
       display: block;
       background-color: #fff;
@@ -433,6 +437,7 @@
   
     .project-text {
       font-size: 13px;
+      max-width: 100%;
     }
   
     .project-text-report {
