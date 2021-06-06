@@ -323,7 +323,7 @@
     display: flex;
     justify-content: space-between;
     width: 80vw;
-    background-image: url("/images/radar.png");
+    background-image: url("images/radar.png");
     width: 100vw;
     background-repeat: no-repeat;
     background-size: contain;
