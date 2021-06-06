@@ -258,6 +258,7 @@
     color: #000;
     font-size: 1vw;
     margin-top: auto;
+    padding: .5vw;
     transition: .5s ease-in;
   }
   
