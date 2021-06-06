@@ -23,7 +23,7 @@ function handleDisplayLinks() {
 
         else {
             displayLinks.innerHTML = "";
-            mainTextWrapper.innerHTML = `<h2 class="main-text">I'm learning odyssey of coding</h2>`;
+            mainTextWrapper.innerHTML = `<h2 class="main-text">I'm stepping in to the coding space</h2>`;
         }
 
     })
