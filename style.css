@@ -199,7 +199,7 @@
   .project-text-report {
     font-size: .8vw;
     line-height: 1.6;
-    max-width: 380px;
+    max-width: 30vw;
     text-align: justify;
     margin-bottom: 1.2vw;
   }
@@ -207,7 +207,6 @@
   .close-text-wrapper {
     display: flex;
     justify-content: flex-end;
-    max-width: 380px;
   }
   
   .close-text {
